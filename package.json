@@ -24,7 +24,7 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "sweetalert2": "^9.3.6",
         "vform": "^1.0.1",
         "vue2-datepicker": "^3.0.1"
